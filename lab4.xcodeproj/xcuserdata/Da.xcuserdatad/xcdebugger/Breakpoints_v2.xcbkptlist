@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0A52F20-3E2B-4B57-8821-A448E963C3E6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E726F11E-E042-4F93-BEA5-3C648A03CB8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab4/ThirdVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "ThirdVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E726F11E-E042-4F93-BEA5-3C648A03CB8D - 20d71917a29bf399"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.frame.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E726F11E-E042-4F93-BEA5-3C648A03CB8D - a8bfeb1604496b85"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.frame.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "E726F11E-E042-4F93-BEA5-3C648A03CB8D - ea74fdc926f39994"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.frame.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E726F11E-E042-4F93-BEA5-3C648A03CB8D - a6477f95406eb85"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.frame.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "E726F11E-E042-4F93-BEA5-3C648A03CB8D - 7c4dfeb11e6d19a8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; lab4.ThirdVC"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "E726F11E-E042-4F93-BEA5-3C648A03CB8D - fc7567a0219bb9bf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;lab4.ThirdVC&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93E7F339-9457-4041-9F93-7265114EA074"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab4/ThirdVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93E7F339-9457-4041-9F93-7265114EA074 - d4272da64f630801"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.text.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "93E7F339-9457-4041-9F93-7265114EA074 - 94f23c909a94d815"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.text.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "93E7F339-9457-4041-9F93-7265114EA074 - bb64be469bcbd402"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.text.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "93E7F339-9457-4041-9F93-7265114EA074 - 9c89c99b19aaee15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.text.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "93E7F339-9457-4041-9F93-7265114EA074 - 7c4dfeb11e6d1f35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; lab4.ThirdVC"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "93E7F339-9457-4041-9F93-7265114EA074 - fc7567a0219bbf22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.ThirdVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;lab4.ThirdVC&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E6BE246-0C6A-4EED-9D9D-24A594A2BF7A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab4/ThirdVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B090AA18-648D-4C6F-9CC1-547D7DDDABA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab4/SecondVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "SecondVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B090AA18-648D-4C6F-9CC1-547D7DDDABA2 - 8edbf692146f20ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.SecondVC.text.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/SecondVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "B090AA18-648D-4C6F-9CC1-547D7DDDABA2 - a00985534de090b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.SecondVC.text.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/SecondVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B090AA18-648D-4C6F-9CC1-547D7DDDABA2 - a0ac3e1b4b478ca5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.SecondVC.text.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/SecondVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B090AA18-648D-4C6F-9CC1-547D7DDDABA2 - 3732021a1bb22cb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.SecondVC.text.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/SecondVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B090AA18-648D-4C6F-9CC1-547D7DDDABA2 - 389a5f68d81544d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.SecondVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; lab4.SecondVC"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/SecondVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "B090AA18-648D-4C6F-9CC1-547D7DDDABA2 - fd27b50970ba507b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab4.SecondVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;lab4.SecondVC&gt;"
+                  moduleName = "lab4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Da/Desktop/lab4/lab4/SecondVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6313F8E1-FD29-4A5A-8DC1-3ACD3E49C369"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab4/SecondVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
